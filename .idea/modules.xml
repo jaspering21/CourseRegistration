@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CourseRegistration-add_drop.iml" filepath="$PROJECT_DIR$/CourseRegistration-add_drop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CourseRegistration.iml" filepath="$PROJECT_DIR$/CourseRegistration.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
